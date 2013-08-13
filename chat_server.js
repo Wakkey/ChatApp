@@ -37,5 +37,4 @@ server.on('connection', function(socket) {
     });
   });
 });
-/*require('open').open(
-	'http://localhost:8888/');*/
+//require('open').open('http://localhost:8888/');
